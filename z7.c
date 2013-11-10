@@ -1,4 +1,4 @@
-
+/*Program Oblicza pierwiastek kwadratowy oraz odwrotnosc podanej liczby*/
 #include <stdio.h>
 #include <math.h>
 #include<stdlib.h>
